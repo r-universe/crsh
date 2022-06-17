@@ -1,0 +1,10 @@
+[
+  {
+    "package": "prereg",
+    "oncran": true
+  },
+  {
+    "package": "rmdfiltr",
+    "oncran": true
+  }
+]
