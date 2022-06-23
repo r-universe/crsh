@@ -1,5 +1,9 @@
 [
   {
+    "package": "papaja",
+    "oncran": true
+  },
+  {
     "package": "prereg",
     "oncran": true
   },

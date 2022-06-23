@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "papaja"]
+	path = papaja
+	url = https://github.com/crsh/papaja
+	shallow = true
+	registered = true
 [submodule "prereg"]
 	path = prereg
 	url = https://github.com/crsh/prereg
