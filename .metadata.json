@@ -1,14 +1,14 @@
 [
   {
+    "package": "rmdfiltr",
+    "oncran": true
+  },
+  {
     "package": "papaja",
     "oncran": true
   },
   {
     "package": "prereg",
-    "oncran": true
-  },
-  {
-    "package": "rmdfiltr",
     "oncran": true
   }
 ]
