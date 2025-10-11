@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "apathe"]
+	path = apathe
+	url = https://github.com/crsh/apathe
 [submodule "papaja"]
 	path = papaja
 	url = https://github.com/crsh/papaja
